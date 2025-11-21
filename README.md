@@ -6,7 +6,7 @@ A collection of Jupyter notebooks created during a **Data Technician Bootcamp**,
 
 ## 📁 Repository Structure
 
-### 📘 **Module 1: DataFrame Basics (Part 1)**
+### 📘 **DataFrame Basics (Part 1)**
 **Topics covered:**
 - Creating DataFrames from Python collections  
 - Viewing DataFrame structure and metadata  
@@ -16,7 +16,7 @@ A collection of Jupyter notebooks created during a **Data Technician Bootcamp**,
 
 ---
 
-### 📙 **Module 2: DataFrame Basics (Part 2)**
+### 📙 **DataFrame Basics (Part 2)**
 **Topics covered:**
 - Importing CSV files  
 - Selecting multiple columns  
@@ -28,7 +28,7 @@ A collection of Jupyter notebooks created during a **Data Technician Bootcamp**,
 
 ---
 
-### 📗 **Module 3: DataFrames Basics (Part 3)**
+### 📗 **DataFrames Basics (Part 3)**
 **Topics covered:**
 - Understanding missing values (NA)  
 - Detecting and counting missing data  
@@ -39,7 +39,7 @@ A collection of Jupyter notebooks created during a **Data Technician Bootcamp**,
 
 ---
 
-### 📊 **Module 4: Pandas, Matplotlib & Seaborn**
+### 📊 **Pandas, Matplotlib & Seaborn**
 **Topics covered:**
 - Exploratory Data Analysis (EDA)  
 - Handling null values  
